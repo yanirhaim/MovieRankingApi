@@ -22,9 +22,9 @@ This is a simple Flask-based REST API for managing movie ratings. It allows user
   git clone [https://github.com/yanirhaim/movie-rating-api.git](https://github.com/yanirhaim/MovieRankingApi.git)
   cd movie-rating-api
 
-2. Create a virtual environment (optional but recommended)
+3. Create a virtual environment (optional but recommended)
 
-3. Install the required packages:
+4. Install the required packages:
    pip install -r requirements.txt
 
 
